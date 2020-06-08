@@ -1,1 +1,1 @@
-# osu-droid-things
+trash
