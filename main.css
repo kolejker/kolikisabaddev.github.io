@@ -42,4 +42,12 @@ a {
 }
 .header {
   display: flex;
+  background-color: white;
+}
+.header h1,
+.header p {
+  color: black;
+}
+.header-text {
+  margin-left: 20px;
 }
