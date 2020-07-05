@@ -40,3 +40,6 @@ a {
   color: #FFFFFF;
   font-family: exo
 }
+.header {
+  display: flex;
+}
