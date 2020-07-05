@@ -1,0 +1,47 @@
+
+embed {
+  
+ width: 100%;
+ lenght: 100%;
+}
+
+body {
+  margin: 0;
+}
+  h1 {
+  color: white;
+  font-family:verdana;
+}
+  h2 {
+  color: white;
+  font-family:verdana;
+}
+   p {
+  color: white;
+  font-family:verdana;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #9c9c9c;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family:verdana
+}
+li a:hover {
+  background-color: #005b63;
+}
+a {
+  color: #FFFFFF;
+  font-family:verdana
+}
